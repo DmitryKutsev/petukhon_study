@@ -1,12 +1,19 @@
 {
    "name": "Jack",
-   "names": "Tom",
+   "names": [
+      "Tom",
+      "JackSparrow"
+   ],
    "huy": "pizda",
    "lokh": "anal",
    "sisya": "pisya",
    "sex": [
       "kot",
       "kot2",
-      "pis"
+      "pis",
+      "dog",
+      "dog2",
+      "dog3",
+      "dog4"
    ]
 }
